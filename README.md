@@ -1,0 +1,1 @@
+This app was created as part of my Swift/iOS development self-paced training. I used the iOS 14 Getting Started course created by Andrew Bancroft from PluralSight: https://app.pluralsight.com/library/courses/ios-14-fundamentals/table-of-contents.
